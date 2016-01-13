@@ -1,0 +1,48 @@
+
+- JINAWEB: (http://www.jinaweb.org/)
+           (http://www.jinaweb.org/html/vj.html)
+
+- Database (SQL-like)
+  - dbase (http://www.dbase.com/)
+  - sqlite3 (http://www.sqlite.org/)
+  - sqlite browser (http://sqlitebrowser.org/)
+  - mariadb (https://mariadb.org/) - LSST!
+  - PostgreSQL (http://www.postgresql.org/)
+  - pgadmin3 (http://www.pgadmin.org/ or 
+              http://www.postgresql.org/ftp/pgadmin3/)
+  - M$ SQL server
+  - Oracle Database (very expensive)
+
+- NoSQL?
+  - Couchbase (http://www.couchbase.com/)
+  - MongoDB (https://www.mongodb.org/)
+
+- Table handling and formatting
+  - M$ Excel
+  - M$ Access
+  - OSX Numbers
+  - OpenOffice
+  - shell scripts (awk, sed, …)
+  - fortran, C++, and similar
+
+- Plotting (standalone vs. add-on)
+  - SM (http://www.astro.princeton.edu/~rhl/sm/)
+  - GNUPLOT (http://gnuplot.info/)
+  - ORIGIN (http://www.originlab.com/)
+
+- Statistical analysis / programming
+  - R-project (https://www.r-project.org/)
+  - IDL / IDLDE (http://www.exelisvis.com/ProductsServices/IDL.aspx)
+  - Python (https://www.python.org/)
+  - OCTAVE (https://www.gnu.org/software/octave/)
+  - MatLab (http://www.mathworks.com/products/matlab/)
+  - Mathematica (https://www.wolfram.com/mathematica/)
+
+- Things to have for this course:
+
+  - CRC account 
+    (http://wiki.crc.nd.edu/wiki/index.php/How_to_Obtain_a_CRC_Account)
+  - SDSS CasJobs 
+    (http://skyserver.sdss.org/CasJobs/ - login with google account)
+  - New solution coming (http://www.sciserver.org/)
+  - CDS X-Match (http://cdsxmatch.u-strasbg.fr/xmatch)
