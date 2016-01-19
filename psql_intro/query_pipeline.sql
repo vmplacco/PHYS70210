@@ -11,7 +11,7 @@
 
 \o /emc1/home/vplacco/PHYS70210/psql_intro/table1.dat
 
-SELECT spspec1,feh_biw,teff_adop,cfe,j0,ra,dec
+SELECT spspec1,feh_biw,teff_adop,logg_adop,cfe,j0,ra,dec
 FROM pipeline 
 WHERE color='JK' AND teff_adop<7000;
 
